@@ -12,6 +12,8 @@ public class Account {
     protected final int id;
     protected final String username;
 
+
+
     public Account(int id, String username) {
         this.id = id;
         this.username = username;
